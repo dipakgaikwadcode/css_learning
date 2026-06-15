@@ -1,0 +1,19 @@
+* {
+    background-color: rgba(0, 208, 255, 0.987);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+h1{
+    color: rgb(220, 228, 255);
+    background-color: #005f6b;
+    font-size: 40px;
+    font-weight: 50px;
+}
+p{
+    color: cornflowerblue;
+    background-color: burlywood;
+    
+}
